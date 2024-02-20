@@ -1,0 +1,16 @@
+Create New Repository on Command line
+echo "# K-Means-Strategy-2-Algorithm" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/iyerx077/K-Means-Strategy-2-Algorithm.git
+git push -u origin main
+
+Pushing an existing repository from command line
+git remote add origin https://github.com/iyerx077/K-Means-Strategy-2-Algorithm.git
+git branch -M main
+git push -u origin main
+
+https://github.com/iyerx077/K-Means-Strategy-2-Algorithm.git
+git@github.com:iyerx077/K-Means-Strategy-2-Algorithm.git
